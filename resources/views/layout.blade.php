@@ -7,10 +7,6 @@
 </head>
 <body>
     @yield('content')
-    <ul>
-    <li><a href="/blog/public/">Главная</a></li>
-        <li><a href="contact">Контакты</a></li>
-        <li><a href="about">О нас</a></li>
-    </ul>
+    
 </body>
 </html>
